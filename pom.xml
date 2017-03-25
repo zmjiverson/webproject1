@@ -15,10 +15,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>webproject</finalName>
-    
-        <build>
+  
+    <build>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -31,5 +29,5 @@
         </plugin>
     </plugins>
 </build>
-  </build>
+       
 </project>
